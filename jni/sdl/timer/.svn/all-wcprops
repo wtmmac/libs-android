@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/timer
+END
+SDL_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/timer/SDL_timer.c
+END
+SDL_systimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/timer/SDL_systimer.h
+END
+SDL_timer_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/timer/SDL_timer_c.h
+END

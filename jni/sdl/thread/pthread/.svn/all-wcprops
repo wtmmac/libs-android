@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread
+END
+SDL_systhread_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_systhread_c.h
+END
+SDL_sysmutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_sysmutex.c
+END
+SDL_syscond.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_syscond.c
+END
+SDL_syssem.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_syssem.c
+END
+SDL_systhread.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_systhread.c
+END
+SDL_sysmutex_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/kuteam/!svn/ver/4331/kudou/kudou2/pro/kudou2.0/jni/sdl/thread/pthread/SDL_sysmutex_c.h
+END
